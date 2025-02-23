@@ -5,7 +5,7 @@ This repository will contain all the supporting material related to IISE QCRE Da
 PyDicom is a useful python library to read DICOM files and handle data as needed. Please, check the following link for detail usage: https://github.com/pydicom/pydicom
 
 
-## How to read DICOM files:
+## Q&A for the Challange:
 ### Q1: Are we allowed to use pre-trained models?
 Yes, you are allowed to use any pre-trained model as long as they are available in open domain (e.g., MIT License). 
 
