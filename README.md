@@ -34,12 +34,15 @@ Participating teams or individuals must submit the following files to iiseqcredc
 File Structure
 
 The submitted files should follow the structure below:
+
+'''
     |- DataFile
         |- train_data
         |- test_data
     |- trained_weights
     |- train.py
     |- predictions.py
+'''
 
 The primary script for generating predictions must be named “predictions.py”. This script should be capable of directly loading the trained model weights, reading DICOM files from the test_data folder or any other designated held-out test dataset, and producing the corresponding predictions.
 It is imperative that the prediction script “predictions.py” runs without requiring any modifications. Any necessary software dependencies should be explicitly stated in the submission. Additionally, a ReadMe file must be included, providing clear instructions on how to execute the code.
