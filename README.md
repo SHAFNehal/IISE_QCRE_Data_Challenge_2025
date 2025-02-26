@@ -62,10 +62,13 @@ For any further inquiries, please contact the Chair of the Competition Steering 
 # Evaluation and Selection of Winner
 The Competition Steering Committee will assess submissions based on the files specified in Step 1 of the Submission section. Only teams that have submitted all the required files in Step 1 will be considered for evaluation. The evaluation committee will include at least one representative from the data sponsor partner with domain expertise.
 The model performance will be measured based on 
+
+```
 Score = Mean Average Precision (mAP)@0.5 
 ```
+
 mAP@0.5 indicates mean average precision at IoU threshold of 50% for the object detection tasks.
-```
+
 Selection Process
 - A maximum of four teams with the highest Score will be selected as candidate finalists.
 - Finalists will be invited to proceed with Steps 2 and 3 outlined in the Submission section.
