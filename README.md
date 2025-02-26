@@ -4,14 +4,20 @@ On behalf of the Quality Control & Reliability Engineering (QCRE) community, we 
 In this data challenge, a research problem of Vertebral Fracture Detection is posed to participants. More details regarding the competition problem statement can be found in the attachment. 
 
 # Eligibility
-•	Individuals or teams of a maximum of four members.   
-•	At least one of the team members must be an active member of the Institute of Industrial & Systems Engineers (IISE) and Quality Control & Reliability Engineering (QCRE) division.
-•	Each team can only participate once.
-•	Each team should submit a Notice of Intent Form to enter the competition (check details in the Notice of Intent section).
-•	Completing Steps 1-3 in the Submission section is required for any team to be eligible as a finalist.
-•	Participating teams are required to publicly release their solutions, including source code and trained model weights, on open-source platforms under the MIT license.
-•	Finalist teams acknowledge that the competition organizers will publish their technical papers, solutions, source code, and trained model weights on the official competition GitHub page https://github.com/SHAFNehal/IISE_QCRE_Data_Challange_2025. 
-•	Participants must not share the challenge data publicly. Instead, they should refer to the original data request link provided by the competition organizers for access and distribution guidelines. 
+- Individuals or teams of a maximum of four members.   
+
+- At least one of the team members must be an active member of the Institute of Industrial & Systems Engineers (IISE) and Quality Control & Reliability Engineering (QCRE) division.
+
+- Each team can only participate once.
+
+- Each team should submit a Notice of Intent Form to enter the competition (check details in the Notice of Intent section).
+
+- Completing Steps 1-3 in the Submission section is required for any team to be eligible as a finalist.
+
+- Participating teams are required to publicly release their solutions, including source code and trained model weights, on open-source platforms under the MIT license.
+
+- Finalist teams acknowledge that the competition organizers will publish their technical papers, solutions, source code, and trained model weights on the official competition GitHub page https://github.com/SHAFNehal/IISE_QCRE_Data_Challange_2025. 
+- Participants must not share the challenge data publicly. Instead, they should refer to the original data request link provided by the competition organizers for access and distribution guidelines. 
 
 
 ## How to read DICOM files:
