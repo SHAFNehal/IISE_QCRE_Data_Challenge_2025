@@ -76,6 +76,19 @@ Selection Process
 
 For any further questions, participants may reach out to the Competition Steering Committee.
 
+# Award
+A maximum of the top four teams will be selected as finalists and will receive both a certificate and a monetary award based on their ranking. All the eligible finalists will also be recognized in the QCRE town hall meeting. If a team is unable to meet any item in the Eligibility section, the team may be excluded from the finalist selection. In this case, fewer than four teams may be awarded. 
+- The 1st prize comprises a certificate and a cash prize of $1,000. 
+- The 2nd prize comprises a certificate and a cash prize of $500. 
+- The 3rd prize comprises a certificate and a cash prize of $200. 
+- The 4th prize comprises a certificate and a cash prize of $100. 
+
+# Important dates/deadlines
+- Notice of Intent: **March 7th, 2025**
+- Data will be released upon receiving the Notice of Intent and **no later than March 14th**.
+- Deadline for submission of the results: **April 14th, 2025**
+- Notification to the finalist teams: **April 21st, 2025**
+- IISE Annual Conference & Expo, **May 31 – June 3, 2025**
 
 # How to read DICOM files:
 PyDicom is a useful python library to read DICOM files and handle data as needed. Please, check the following link for detail usage: https://github.com/pydicom/pydicom
