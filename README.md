@@ -16,7 +16,7 @@ In this data challenge, a research problem of Vertebral Fracture Detection is po
 
 - Participating teams are required to publicly release their solutions, including source code and trained model weights, on open-source platforms under the MIT license.
 
-- Finalist teams acknowledge that the competition organizers will publish their technical papers, solutions, source code, and trained model weights on the official competition GitHub page [[https://pages.github.com/](https://github.com/SHAFNehal/IISE_QCRE_Data_Challange_2025)](https://github.com/SHAFNehal/IISE_QCRE_Data_Challange_2025). 
+- Finalist teams acknowledge that the competition organizers will publish their technical papers, solutions, source code, and trained model weights on the official competition GitHub page [https://github.com/SHAFNehal/IISE_QCRE_Data_Challange_2025](https://github.com/SHAFNehal/IISE_QCRE_Data_Challange_2025). 
 - Participants must not share the challenge data publicly. Instead, they should refer to the original data request link provided by the competition organizers for access and distribution guidelines. 
 
 # Notice of Intent
