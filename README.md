@@ -3,6 +3,9 @@ On behalf of the Quality Control & Reliability Engineering (QCRE) community, we 
 
 In this data challenge, a research problem of Vertebral Fracture Detection is posed to participants. More details regarding the competition problem statement can be found in the attachment. 
 
+# Problem Statement
+The detailed peoblem statement can be found here. [Problem Statement](https://github.com/SHAFNehal/IISE_QCRE_Data_Challange_2025/blob/main/QCRE_Data_Challenge_Competition_Problem_Statement.pdf)
+
 # Eligibility
 - Individuals or teams of a maximum of four members.   
 
