@@ -59,12 +59,26 @@ Email your submission Data Competition steering committee.
 Finalist teams must showcase their work at the 2025 IISE Annual Conference & Expo. At least one team member from each finalist team is required to register for the conference and present their technical details during the QCRE Data Challenge Competition showcase session.
 For any further inquiries, please contact the Chair of the Competition Steering Committee.
 
+# Evaluation and Selection of Winner
+The Competition Steering Committee will assess submissions based on the files specified in Step 1 of the Submission section. Only teams that have submitted all the required files in Step 1 will be considered for evaluation. The evaluation committee will include at least one representative from the data sponsor partner with domain expertise.
+The model performance will be measured based on 
+Score = Mean Average Precision (mAP)@0.5 
+```
+mAP@0.5 indicates mean average precision at IoU threshold of 50% for the object detection tasks.
+```
+Selection Process
+- A maximum of four teams with the highest Score will be selected as candidate finalists.
+- Finalists will be invited to proceed with Steps 2 and 3 outlined in the Submission section.
+- Among the finalist teams, those who successfully complete all three steps will be ranked based on their Score, and the top four teams will be awarded 1st to 4th place prizes accordingly.
 
-## How to read DICOM files:
+For any further questions, participants may reach out to the Competition Steering Committee.
+
+
+# How to read DICOM files:
 PyDicom is a useful python library to read DICOM files and handle data as needed. Please, check the following link for detail usage: https://github.com/pydicom/pydicom
 
 
-## Q&A for the Challange:
+# Q&A for the Challange:
 ### Q1: Are we allowed to use pre-trained models?
 Yes, you are allowed to use any pre-trained model as long as they are available in open domain (e.g., MIT License). 
 
