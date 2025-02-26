@@ -1,5 +1,5 @@
 # IISE_QCRE_Data_Challange_2025
-On behalf of the Quality Control & Reliability Engineering (QCRE) community, we would like to invite you to participate in the 2025 QCRE Data Challenge Competition at the IISE Annual Conference. This year's QCRE Data Challenge problem is sponsored by Zauron Labs. The dataset is provided by The University of Texas Medical Branch at Galveston. 
+On behalf of the Quality Control & Reliability Engineering (QCRE) community, we would like to invite you to participate in the 2025 QCRE Data Challenge Competition at the IISE Annual Conference. This year's QCRE Data Challenge problem is sponsored by [https://zauronlabs.com/](**Zauron Labs**). The dataset is provided by **The University of Texas Medical Branch at Galveston**. 
 
 In this data challenge, a research problem of Vertebral Fracture Detection is posed to participants. More details regarding the competition problem statement can be found in the attachment. 
 
