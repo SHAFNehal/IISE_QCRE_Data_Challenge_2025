@@ -37,10 +37,15 @@ The submitted files should follow the structure below:
 
 '''
     |- DataFile
+    
         |- train_data
+        
         |- test_data
+        
     |- trained_weights
+    
     |- train.py
+    
     |- predictions.py
 '''
 
