@@ -23,7 +23,7 @@ The detailed peoblem statement can be found here. [Problem Statement](https://gi
 - Participants must not share the challenge data publicly. Instead, they should refer to the original data request link provided by the competition organizers for access and distribution guidelines. 
 
 # Notice of Intent
-Each team must submit a Notice of Intent Form by March 7th, 2025, through https://forms.office.com/r/ics3Lx9y6V to express their interest in entering the competition. The data will start to be released to each team on a First Come First Serve. The form requires the following information: Team members, Institution, Main point of contact (name and email address), and Copyright release agreement.
+Each team must submit a Notice of Intent Form by March 14th, 2025, through https://forms.office.com/r/ics3Lx9y6V to express their interest in entering the competition. The data will start to be released to each team on a First Come First Serve. The form requires the following information: Team members, Institution, Main point of contact (name and email address), and Copyright release agreement.
 
 # Submission Guidelines
 ## Step 1: Initial Submission
