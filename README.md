@@ -109,31 +109,35 @@ PyDicom is a useful python library to read DICOM files and handle data as needed
 # How to read tiff files:
 Using Python OpenCV
 '''
-import cv2
-
- try:
-    img_array = cv2.imread("your_image.tiff", cv2.IMREAD_UNCHANGED)
-    if img_array is None:
-        print("Error: Could not open or read the image.")
-    else:
-         print(f"Image shape: {img_array.shape}")
-except Exception as e:
-    print(f"An error occurred: {e}")
+    
+    import cv2
+    
+     try:
+        img_array = cv2.imread("your_image.tiff", cv2.IMREAD_UNCHANGED)
+        if img_array is None:
+            print("Error: Could not open or read the image.")
+        else:
+             print(f"Image shape: {img_array.shape}")
+    except Exception as e:
+        print(f"An error occurred: {e}")
+    
 '''
 Using Python PIL
 '''
-from PIL import Image
 
-try:
-    img = Image.open("your_image.tiff")
-    # Access image data as a NumPy array
-    img_array = np.array(img)
-    print(f"Image size: {img.size}")
-    print(f"Image mode: {img.mode}")
-except FileNotFoundError:
-    print("Error: TIFF file not found.")
-except Exception as e:
-    print(f"An error occurred: {e}")
+    from PIL import Image
+    
+    try:
+        img = Image.open("your_image.tiff")
+        # Access image data as a NumPy array
+        img_array = np.array(img)
+        print(f"Image size: {img.size}")
+        print(f"Image mode: {img.mode}")
+    except FileNotFoundError:
+        print("Error: TIFF file not found.")
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        
 '''
 
 # Q&A for the Challange:
