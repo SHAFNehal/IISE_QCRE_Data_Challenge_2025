@@ -108,6 +108,7 @@ PyDicom is a useful python library to read DICOM files and handle data as needed
 
 # How to read tiff files:
 Using Python OpenCV
+
 '''
     
     import cv2
@@ -122,7 +123,9 @@ Using Python OpenCV
         print(f"An error occurred: {e}")
     
 '''
+
 Using Python PIL
+
 '''
 
     from PIL import Image
