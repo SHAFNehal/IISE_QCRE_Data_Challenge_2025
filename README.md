@@ -99,7 +99,7 @@ A maximum of the top four teams will be selected as finalists and will receive b
 # Important dates/deadlines
 - Notice of Intent: **March 7th, 2025**
 - Data will be released upon receiving the Notice of Intent and **no later than March 14th**.
-- Deadline for submission of the results: **April 14th, 2025**
+- Deadline for submission of the results: **April 18th, 2025 [Deadline Extended]**
 - Notification to the finalist teams: **April 21st, 2025**
 - IISE Annual Conference & Expo, **May 31 – June 3, 2025**
 
